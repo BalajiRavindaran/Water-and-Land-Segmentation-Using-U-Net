@@ -1,4 +1,4 @@
-## Water and Land Segmentation Using U-Net
+## Water-and-Land-Segmentation-Using-U-Net
 
 <ul>
   <li>Developed a deep learning-based image segmentation system using the U-Net architecture to classify and differentiate between water bodies and land areas in satellite imagery.</li>
